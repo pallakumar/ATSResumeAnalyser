@@ -5,6 +5,16 @@ a
 ##  Demo
 
    YouTube Demo: https://youtu.be/awU9LI8nMro
+   
+
+##  Screenshots
+
+<img width="200" height="200" alt="Simulator Screen Shot - iPhone 13 - 2026-05-30 at 14 49 39" src="https://github.com/user-attachments/assets/2fb7f9cd-8ab2-45e7-8c5e-40b6e7b2c770" />
+<img width="200" height="200" alt="Simulator Screen Shot - iPhone 13 - 2026-05-30 at 14 49 29" src="https://github.com/user-attachments/assets/3ba60141-6255-4718-bb0d-368442086a1a" />
+<img width="200" height="200" alt="Simulator Screen Shot - iPhone 13 - 2026-05-30 at 14 49 44" src="https://github.com/user-attachments/assets/b32da5ce-82a6-450a-bbc6-4ffd364387c8" />
+<img width="200" height="200" alt="Simulator Screen Shot - iPhone 13 - 2026-05-30 at 14 49 49" src="https://github.com/user-attachments/assets/41d8c6ca-2dd8-4745-b040-daf84abbdc3f" />
+<img width="200" height="200" alt="Simulator Screen Shot - iPhone 13 - 2026-05-30 at 14 49 53" src="https://github.com/user-attachments/assets/f3e776d9-f506-4b34-a606-7488d43ee8eb" />
+
 
 ##  Overview
 
