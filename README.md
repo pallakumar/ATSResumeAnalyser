@@ -1,7 +1,7 @@
 # ATS Resume Analyzer
 
    AI-powered ATS Resume Analyzer built using SwiftUI and MVVM architecture to help job seekers evaluate and improve their resumes before applying for jobs.
-a
+
 ##  Demo
 
    YouTube Demo: https://youtu.be/awU9LI8nMro
